@@ -1,0 +1,23 @@
+{
+    "name": "nlabrador/google-datastore-crud",
+    "description": "Google Datastore Wrapper for having simple basic CRUD",
+    "type": "library",
+    "require": {
+        "google/cloud-datastore": "^1.10"
+    },
+    "authors": [
+        {
+            "name": "Nino Labrador",
+            "email": "nino.labrador@hireplicity.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-0": {
+            "Google": "src/"
+        }
+    }
+}

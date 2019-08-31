@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "portfolio-wordpress-248408",
+  "private_key_id": "d8e3e7c6064dae1006fb6a5467934c53689c7c5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvC91sicwuXAes\nOW4o11rBqULGLI+DvG5kBbqxiRxHJIUqBQo8Jx7LaBv0Tk3Fy3dONPt9NIgumGTs\nZ97Tx5+g29xyRkuECoYR/kzmhuUinh/UD7mVN4nWGOki3MbriubtVZAOtrhK0YH6\nyoeRL7M803+/sensXoP0gZ8wcJifmyn61PN9VQe3HIi1gML6kaxlQOYtCcxaEnLb\nGIiudmX3QiV82Gjtbs7j4M0wbCHI/+bpS8ROi5rhthPw4C3KJqIIOlRlP87IwfwK\nn3TmJfU7ohhGrVJYpiCXYf7Lq6ZlUYhIdjuWfn3jc+yo3MGqTqLJsJk0pj05BZrx\nSZW8S+i/AgMBAAECggEACZp5iehfctWquBioggYanRBXsP6l2wDd/4/O58mRaxfG\nVIFVR+qPhnJOQk9/ddANWhWPDJXyuLe0pcGnGHBVwiH9zKktoG9hXqBYgLc63/TT\n4zL/p/+ViNDyDW8WXLrQo4mzrxL4NmabHnK5EE6RI0+pLQ+qOUUQMTxhSuuKfAsU\nRDs0buHFNvHrC0i2SArlCoMOiFoSSM6ftb5QnetLhqpNxH3F0kOh1Cs0EEjPhMdh\nX68iPWt5aY0jsB3DW5dMLI1d+KjJllPEuek86ZESxbe5M+PawPbyYgne8+0YHrz1\nSqTMocADei4B73nWWs3szOdbv0HBhFiuHJAqFqgOxQKBgQDzihIEpM/XnFERFeu9\n3Jh3hHMAcZFp2QH2+ShaW7nTc5zbxSsqD1LICwKEJIp/oqNZvDTDXLnFb3o1xk5E\np9fFTIRpLEvT7vSzTCKjE2Fcb4Pk0ufyR124Oz7SrFP7fSVMR85RgpF2oaaUrS9g\nzdkay0dZNZINUUQNHlN+a43M+wKBgQC4AKivHZHj57wf2taE+W9tqriIwGAqw1u0\no3VVyXgU64nqkriUaXOPh6mLjFXYk3KBfqYoLAvNeFFabYmCy1N4rBRK/BgYrOul\nrtyYqd1QlGd4uMuhcSzUFjNoFl4t2xocobQ/epYKjdhM4IfVFdOUQJ2tmcvmRu/E\nD6zi9eGADQKBgQCkmV7QMKwg54+K4qvwKJYLwUMQu7EyPu8rAv8ZAwG3Pl530uz3\ngl/KwFY1BZVt6nhJAAERQSx1moCYs6zWjjIxMSQVCVE+rjRIsl5+pWyaUuxrzXfi\nsgVPrQsqzDn+sXhx894oDP1PlrXFqr9ox/fCOj3At4o84f4Cd8qqmPq/3QKBgQCj\nEmJtIEXFuADwMmBgZTgt91moSOZxv8WsqBk7OFymHcGTFQlk7rguAktuk6cZVEPt\nJDNZ8v9a0EE5ZU6zjkOh9M/fTOCGLeqCYiC7Y//yhDPXt98waz8Rj8NrgjdhaIcR\nzPYUNC55mBCUwYFghgGHqGSWEHG22jNwjXvpgYSimQKBgA/m8Bf6qtxXBjQjnAGH\nJhDg/aZwCHoGQnMnlEgH6Ky64TyjFgYz5/1qQ+WsbOpJPCTPYjk4GZyXYhbKsEEs\n/8G8vvWdiAXYwCyUVGrfFSg/bhWdGHit0ara+Wh8FAZExxwUNauLGioo8/tXBwNg\nNo7HyxTd75ijaIUiz+IrUPFO\n-----END PRIVATE KEY-----\n",
+  "client_email": "portfolio-wordpress-248408@appspot.gserviceaccount.com",
+  "client_id": "108912526984852705349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/portfolio-wordpress-248408%40appspot.gserviceaccount.com"
+}
