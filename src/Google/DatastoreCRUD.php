@@ -21,7 +21,7 @@ class DatastoreCRUD
             'namespaceId' => $namespace
         ];
 
-        if ($keyJsonFilepath) {
+        if ($keyJsonFilepath && file_exists($keyJsonFilepath)) {
             $default['keyFilePath'] = $keyJsonFilepath;
         }
         
