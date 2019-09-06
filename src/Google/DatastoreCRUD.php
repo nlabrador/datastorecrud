@@ -157,6 +157,7 @@ class DatastoreCRUD
      */
     public function query($query) {
         $query = $this->datastore->gqlQuery($query);
+        $query->setAllowLiteral(true);
         $result = $this->datastore->runQuery($query); 
 
         return $result;
