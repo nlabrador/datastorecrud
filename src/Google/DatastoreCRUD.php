@@ -156,8 +156,7 @@ class DatastoreCRUD
      * Example query("SELECT * FROM Employee")
      */
     public function query($query) {
-        $query = $this->datastore->gqlQuery($query);
-        $query->setAllowLiterals(true);
+        $query = $this->datastore->gqlQuery($query, ['allowLiterals' => true]);
         $result = $this->datastore->runQuery($query); 
 
         return $result;
