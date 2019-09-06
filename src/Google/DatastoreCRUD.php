@@ -139,6 +139,7 @@ class DatastoreCRUD
         if ($this->entity) {
             $result = $this->query("SELECT * FROM ".$this->entity);
 
+            $entities = [];
             foreach ($result as $entity) {
                 $entities[] = $entity; 
             }
